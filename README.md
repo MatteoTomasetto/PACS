@@ -1,6 +1,6 @@
 # PACS_Challenges
 
-Implementation of four different problems for the course Advanced Programming for Scientific Computing (PACS)
+Implementation of four different problems for the course Advanced Programming for Scientific Computing (PACS).
 
 **Challenges**:
 - Cauchy problem solver
