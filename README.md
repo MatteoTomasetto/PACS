@@ -1,4 +1,4 @@
-# PACS
+# PACS Challenges
 
 Implementation of four different problems for the course Advanced Programming for Scientific Computing (PACS).
 
